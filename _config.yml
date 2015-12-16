@@ -1,6 +1,6 @@
 name: Bektash van Bruinessen
 favicon: null
-layout_spectrum: 0.04696862772107124
+layout_spectrum: 0.337
 typography_spectrum: 0.39351
 title: 'Pianist, Teacher & Co-Founder of Combined Creatives'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#4a4a4a'
     - '#868686'
     - '#e1e1e1'
-  brandStrength: 0.38633119803853333
+  brandStrength: 0.375
   lightness: 0.4375
   saturation: 0.75
   rhythmicContrast: 0.25
